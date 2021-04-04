@@ -1,0 +1,7 @@
+C:\Users\kosta\source\repos\Lab5Prog\Lab5Prog\bin\Debug\Lab5Prog.exe.config
+C:\Users\kosta\source\repos\Lab5Prog\Lab5Prog\bin\Debug\Lab5Prog.exe
+C:\Users\kosta\source\repos\Lab5Prog\Lab5Prog\bin\Debug\Lab5Prog.pdb
+C:\Users\kosta\source\repos\Lab5Prog\Lab5Prog\obj\Debug\Lab5Prog.csprojAssemblyReference.cache
+C:\Users\kosta\source\repos\Lab5Prog\Lab5Prog\obj\Debug\Lab5Prog.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\Lab5Prog\Lab5Prog\obj\Debug\Lab5Prog.exe
+C:\Users\kosta\source\repos\Lab5Prog\Lab5Prog\obj\Debug\Lab5Prog.pdb
